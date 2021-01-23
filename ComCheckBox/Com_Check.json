@@ -1,0 +1,6 @@
+[{
+    "type": "checkbox",
+    "soal": "pilihlah 3 yang benar mengenai aqil",
+    "option": ["Trainer Juara Coding", "Manusia", "Anggota Avenger"],
+    "jawab": ["Manusia", "Anggota Avenger"]
+}]
